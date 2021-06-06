@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: url("https://images.unsplash.com/photo-1583214312364-9318b58180dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -15,6 +15,11 @@ h2 {
   height: auto;
   text-align: center;
   font-size: 45px;
+  color: darkgoldenrod;
+}
+label {
+  color: #b80b3d;
+  margin: auto;
 }
 .container {
   padding: 2px 16px;
